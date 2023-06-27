@@ -31,7 +31,7 @@ This project aims to implement Real-Time Appearance-Based Mapping (RTAB Mapping)
 
 -https://www.automate.org/blogs/what-is-visual-slam-technology-and-what-is-it-used-for
 -https://www.mathworks.com/help/vision/ug/visual-simultaneous-localization-and-mapping-slam-overview.html
--http://introlab.github.io/rtabmap/
+-[Intro to RTAB Mapping](http://introlab.github.io/rtabmap/)
 -https://www.researchgate.net/publication/264838423_Comparative_assessment_of_point_feature_detectors_in_the_context_of_robot_navigation
--https://www.stereolabs.com/zed-mini/
--[http://wiki.ros.org/apriltag_ros](http://wiki.ros.org/apriltag_ros)http://wiki.ros.org/apriltag_ros
+-[ZED MINI Camera](http://wiki.ros.org/apriltag_ros)
+-[April Tags](http://wiki.ros.org/apriltag_ros)
