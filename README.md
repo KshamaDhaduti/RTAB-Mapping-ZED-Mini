@@ -35,4 +35,3 @@ This project aims to implement Real-Time Appearance-Based Mapping (RTAB Mapping)
 -https://www.researchgate.net/publication/264838423_Comparative_assessment_of_point_feature_detectors_in_the_context_of_robot_navigation
 -https://www.stereolabs.com/zed-mini/
 -http://wiki.ros.org/apriltag_ros
--
