@@ -26,5 +26,13 @@ This project aims to implement Real-Time Appearance-Based Mapping (RTAB Mapping)
 - Challenges were encountered with glass windows and doors, as RTAB-Map struggled to achieve accurate 3D reconstruction due to detecting and registering features from the other side of the glass.
 - Illumination effects had a notable impact on RTAB-Map's performance, with excessive or insufficient lighting leading to poor quality 3D reconstructions.
 - As a future scope, integrating April tag detection with RTAB-SLAM can enhance the system's capabilities, and implementing path planning on autonomous platforms can enable efficient navigation based on the generated maps.
+  
+**References:**
 
-
+-https://www.automate.org/blogs/what-is-visual-slam-technology-and-what-is-it-used-for
+-https://www.mathworks.com/help/vision/ug/visual-simultaneous-localization-and-mapping-slam-overview.html
+-http://introlab.github.io/rtabmap/
+-https://www.researchgate.net/publication/264838423_Comparative_assessment_of_point_feature_detectors_in_the_context_of_robot_navigation
+-https://www.stereolabs.com/zed-mini/
+-http://wiki.ros.org/apriltag_ros
+-
